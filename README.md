@@ -1,5 +1,5 @@
 # SmartContract_DataVerify
-Simple but mighty application of SmartContract.
+Simple but mighty application of SmartContract./n
 I use weather data for example to apply data verify.
 Only owner can change SafeList and ownerAddress.
 Only address on SafeList can add, update and delete data.
